@@ -1,0 +1,6 @@
+[submodule "frontend_MovieReviewWebapp"]
+	path = frontend_MovieReviewWebapp
+	url = https://github.com/Apoorv3826/frontend_MovieReviewWebapp.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Apoorv3826/Backend_MovieReviewWebapp.git
